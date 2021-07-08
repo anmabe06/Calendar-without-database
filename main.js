@@ -1,3 +1,7 @@
+//Code by anmabe06
+//June 8th of 2021
+
+
 eventList = []
 
 function event(title, startDate, endDate){
